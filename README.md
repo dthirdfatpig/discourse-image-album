@@ -1,6 +1,6 @@
-# ALPHA Discourse Image Album
+# Discourse Image Album
 
-[![Version](https://img.shields.io/badge/version-0.1.11--alpha-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-0.1.14--alpha-blue.svg)](CHANGELOG.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Discourse Compatibility](https://img.shields.io/badge/discourse-2.8%2B%20%7C%203.x%20%7C%204.x-success.svg)](https://www.discourse.org)
 [![AI Generated](https://img.shields.io/badge/built%20with-AI-blueviolet.svg)](#-ai-creation-disclosure)
@@ -103,7 +103,7 @@ hooks:
     - exec:
         cd: $home/plugins
         cmd:
-          - git clone https://github.com/dthirdfatpig/ALPHA-Discourse-Image-Album.git
+          - git clone https://github.com/dthirdfatpig/discourse-image-album.git
 ```
 
 Rebuild your container:
